@@ -1,0 +1,31 @@
+# License
+
+Copyright (c) 2026 Ziheng Zou
+
+## Paper materials
+
+The manuscript, PDF, and supplementary mathematical text under `paper/` are
+licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0):
+
+https://creativecommons.org/licenses/by/4.0/
+
+You may share and adapt these materials for any purpose, provided appropriate
+credit is given, a link to the license is supplied, and changes are indicated.
+
+## Lean source
+
+The original Lean source code and repository-authored formalization materials
+under `lean/` are licensed under the Apache License, Version 2.0:
+
+https://www.apache.org/licenses/LICENSE-2.0
+
+You may use, reproduce, and distribute these materials under the terms of that
+license. Unless required by applicable law or agreed to in writing, they are
+provided without warranties or conditions of any kind.
+
+## Third-party materials
+
+External dependencies are not relicensed by this notice. In particular, Lean,
+Mathlib, and other packages referenced by the build retain their respective
+licenses.
